@@ -28,7 +28,7 @@ O projeto foi bem-sucedido, com todos os testes de regressão sendo executados c
 
 - ### 🖼️ Exemplos
 
-![Captura de Tela](caminho/para/captura.png)
+<img width="1398" alt="BR1" src="https://github.com/user-attachments/assets/98d7c66e-6382-4757-a178-264dff8b1958">
 
 ## 🌟 Possíveis Melhorias
 
