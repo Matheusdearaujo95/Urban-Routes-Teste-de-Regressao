@@ -26,6 +26,10 @@ O projeto foi bem-sucedido, com todos os testes de regressão sendo executados c
 - **🔧 Estabilidade Melhorada:** A estabilidade do aplicativo foi garantida, com correções de bugs realizadas pelos desenvolvedores.
 - **✅ Qualidade Assegurada:** As principais funcionalidades foram validadas e estão funcionando corretamente após as modificações.
 
+- ### 🖼️ Exemplos
+
+![Captura de Tela](caminho/para/captura.png)
+
 ## 🌟 Possíveis Melhorias
 
 - **🤖 Automatização dos Testes:** Implementar testes automatizados para reduzir o tempo de execução e aumentar a cobertura.
