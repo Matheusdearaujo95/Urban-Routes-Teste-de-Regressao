@@ -26,7 +26,7 @@ O projeto foi bem-sucedido, com todos os testes de regressão sendo executados c
 - **🔧 Estabilidade Melhorada:** A estabilidade do aplicativo foi garantida, com correções de bugs realizadas pelos desenvolvedores.
 - **✅ Qualidade Assegurada:** As principais funcionalidades foram validadas e estão funcionando corretamente após as modificações.
 
-- ### 🖼️ Exemplos
+### 🖼️ Exemplos
 
 <img width="1398" alt="BR1" src="https://github.com/user-attachments/assets/98d7c66e-6382-4757-a178-264dff8b1958">
 
